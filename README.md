@@ -56,6 +56,6 @@ Sellix :   https://zikobots.sellix.io/product/61532c6ba49f8
 Discord :  https://discord.gg/zibots
 
 ## Support
-Discord :       Zikola#4248
+Discord :       zikola#4248
 
 Telegram :     @zikola_cto
